@@ -1,10 +1,8 @@
 # Generative Adversarial Network for Fashion MNIST
 
-Generative Adversarial Networks (GANs) are a powerful class of neural networks that are used for unsupervised learning.
+Generative Adversarial Networks (GANs) are a powerful class of neural networks that are used for unsupervised learning. It was developed and introduced by Ian J. Goodfellow in 2014. GANs are basically made up of a system of two competing neural network models which compete with each other and are able to analyze, capture and copy the variations within a dataset.
 
-![687474707](https://user-images.githubusercontent.com/98907729/179423307-8665c6b2-88af-49be-b5f1-7cdf67f523d5.jpg)
-
-It was developed and introduced by Ian J. Goodfellow in 2014. GANs are basically made up of a system of two competing neural network models which compete with each other and are able to analyze, capture and copy the variations within a dataset.
+image
 
 Tensorflow implementation of Generative Adversarial Networks (GAN) for fashion MNIST dataset.
 
@@ -37,4 +35,5 @@ Fashion-MNIST is a dataset of Zalando's article images—consisting of a trainin
 
 **You can download the dataset by clicking** [here](https://github.com/zalandoresearch/fashion-mnist)
 
-![fashion-mnist-sprite](https://user-images.githubusercontent.com/98907729/179423228-73cfd6a1-dd80-40be-a82e-2a0e97cf5fc6.png)
+long image
+
