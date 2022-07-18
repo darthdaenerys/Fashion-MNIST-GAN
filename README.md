@@ -2,7 +2,7 @@
 
 Generative Adversarial Networks (GANs) are a powerful class of neural networks that are used for unsupervised learning. It was developed and introduced by Ian J. Goodfellow in 2014. GANs are basically made up of a system of two competing neural network models which compete with each other and are able to analyze, capture and copy the variations within a dataset.
 
-image
+![687474707](https://user-images.githubusercontent.com/98907729/179476371-5810e873-fb53-4756-98ff-ac22ecd8a5f7.jpg)
 
 Tensorflow implementation of Generative Adversarial Networks (GAN) for fashion MNIST dataset.
 
@@ -35,5 +35,4 @@ Fashion-MNIST is a dataset of Zalando's article images—consisting of a trainin
 
 **You can download the dataset by clicking** [here](https://github.com/zalandoresearch/fashion-mnist)
 
-long image
-
+![fashion-mnist-sprite](https://user-images.githubusercontent.com/98907729/179476108-d9e5ca73-a0e4-479b-a99c-ac560e993d0e.png)
